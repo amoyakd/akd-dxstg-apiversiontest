@@ -8,8 +8,8 @@
             "path": "base-objects",
             "default": false,
             "package": "akd-baseObjects-apiVersion",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "name": "cohortFall22",
