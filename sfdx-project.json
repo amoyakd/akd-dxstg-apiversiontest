@@ -6,11 +6,17 @@
         },
         {
             "path": "base-objects",
-            "default": false
+            "default": false,
+            "package": "akd-baseObjects-apiVersion",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "cohortFall22",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0"
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "akd-baseObjects-apiVersion": "0Ho8d000000sYDKCA2"
+    }
 }
