@@ -17,6 +17,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "akd-baseObjects-apiVersion": "0Ho8d000000sYDKCA2"
+        "akd-baseObjects-apiVersion": "0Ho8d000000sYDKCA2",
+        "akd-baseObjects-apiVersion@1.1.0-0-main": "04t8d000000EFK5AAO"
     }
 }
