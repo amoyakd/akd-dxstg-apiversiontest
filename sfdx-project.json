@@ -10,7 +10,7 @@
             "package": "akd-baseObjects-apiVersion",
             "versionName": "ver 1.0",
             "versionNumber": "1.0.0.NEXT",
-            "postinstallScript": "PostInstallClass",
+            "postInstallScript": "PostInstallClass",
             "ancestorVersion": "HIGHEST"
         }
     ],
