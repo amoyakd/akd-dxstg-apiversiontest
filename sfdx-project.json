@@ -5,7 +5,12 @@
             "default": true,
             "package": "akd-employee-apiVersion",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.1.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "akd-baseObjects-apiVersion@1.1.0-0-main"
+                }
+             ]
         },
         {
             "path": "base-objects",
