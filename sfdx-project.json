@@ -10,7 +10,7 @@
                 {
                     "package": "akd-baseObjects-apiVersion@1.1.0-0-main"
                 }
-             ]
+            ]
         },
         {
             "path": "base-objects",
@@ -28,6 +28,7 @@
         "akd-baseObjects-apiVersion": "0Ho8d000000sYDKCA2",
         "akd-baseObjects-apiVersion@1.1.0-0-main": "04t8d000000EFK5AAO",
         "akd-baseObjects-apiVersion@1.2.0-0-main": "04t8d000000EFKAAA4",
-        "akd-employee-apiVersion": "0Ho8d000000sYMECA2"
+        "akd-employee-apiVersion": "0Ho8d000000sYMECA2",
+        "akd-employee-apiVersion@1.0.0-1-main": "04t8d000000ELjsAAG"
     }
 }
