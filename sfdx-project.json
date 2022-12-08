@@ -9,9 +9,7 @@
             "default": false,
             "package": "akd-baseObjects-apiVersion",
             "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT",
-            "postInstallScript": "PostInstallClass",
-            "ancestorVersion": "HIGHEST"
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "name": "cohortFall22",
